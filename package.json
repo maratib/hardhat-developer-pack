@@ -1,0 +1,37 @@
+{
+  "name": "hardhat-developer-pack",
+  "displayName": "hardhat-developer-pack",
+  "description": "",
+  "keywords": [
+    "hardhat",
+    "contract test",
+    "solidity snippets",
+    "solidity",
+    "snippets",
+    "smart contract",
+    "smart contracts",
+    "blockchain"
+  ],
+  "version": "0.0.1",
+  "icon": "images/xpro-snippets.png",
+  "author": {
+    "name": "Maratib Ali Khan",
+    "email": "maratib@gmail.com",
+    "url": "https://maratib.github.io"
+  },
+  "publisher": "maratib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maratib/solidity-snippets"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "maratib.solidity-snippets",
+    "hbenl.vscode-mocha-test-adapter"
+  ]
+}
