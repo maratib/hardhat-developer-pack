@@ -1,7 +1,8 @@
 {
   "name": "hardhat-developer-pack",
-  "displayName": "hardhat-developer-pack",
+  "displayName": "Hardhat Developer Pack",
   "description": "",
+  "version": "0.0.4",
   "keywords": [
     "hardhat",
     "contract test",
@@ -12,7 +13,6 @@
     "smart contracts",
     "blockchain"
   ],
-  "version": "0.0.1",
   "icon": "images/xpro-snippets.png",
   "author": {
     "name": "Maratib Ali Khan",
@@ -32,6 +32,8 @@
   ],
   "extensionPack": [
     "maratib.solidity-snippets",
+    "maratib.hardhat-test-snippets",
+    "NomicFoundation.hardhat-solidity",
     "hbenl.vscode-mocha-test-adapter"
   ]
 }
