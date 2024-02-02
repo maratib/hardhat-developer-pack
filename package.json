@@ -22,7 +22,7 @@
   "publisher": "maratib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maratib/solidity-snippets"
+    "url": "https://github.com/maratib/hardhat-developer-pack"
   },
   "engines": {
     "vscode": "^1.70.0"
